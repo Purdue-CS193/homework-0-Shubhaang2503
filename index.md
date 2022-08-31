@@ -2,7 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-My name is Shubhaang Agarwal.
+# Shubhaang Agarwal's First CS193 Homework
+- It's taught by undergraduate students.
+- They use memes which make the class more interesting
+- They try their best to not make the lecture boring
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
